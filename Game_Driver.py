@@ -2,7 +2,7 @@ import pygame
 import pygame.math
 import os
 import importlib
-import functions, Pokemon
+import functions, pythoPokemon
 import tcp_client
 from pygame.locals import *
 
